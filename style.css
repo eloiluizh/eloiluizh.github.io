@@ -5,3 +5,7 @@
 @supports (font-variation-settings: normal) {
   :root { font-family: InterVariable, sans-serif; }
 }
+body {
+    font-family: Inter;
+    text-align: center;
+}
